@@ -1,1 +1,1 @@
-# Curso SQL Completo 2020 - Udemy
+# :computer: Curso SQL Completo 2020 - Udemy :boom:
