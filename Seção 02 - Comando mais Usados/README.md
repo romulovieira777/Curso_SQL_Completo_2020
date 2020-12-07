@@ -1,6 +1,7 @@
 #### :computer: Comando SQL que foram usados nos Arquivos acima::boom:
 - And (Filtra um Registro se Ambos Forem Verdadeiros em uma Consulta).
 - Asc (Organiza os Dados em Ordem Crescente).
+- Between (Seleção de Intervalos em Consultas).
 - Count (Contagem dos Itens Selecionados ou Registros).
 - Desc (Organiza os Dados em Ordem Decrescente).
 - Distinct (Consultas com Valores Distintos, Sem Repetição).
