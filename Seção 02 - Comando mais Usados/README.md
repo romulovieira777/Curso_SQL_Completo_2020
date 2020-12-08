@@ -1,12 +1,20 @@
 #### :computer: Comando SQL que foram usados nos Arquivos acima::boom:
 - And (Filtra um Registro se Ambos Forem Verdadeiros em uma Consulta).
+- As (Nome Alternativa para Colunas ou Tabelas).
 - Asc (Organiza os Dados em Ordem Crescente).
 - Between (Seleção de Intervalo em Registros).
 - Count (Contagem dos Itens Selecionados ou Registros).
 - Desc (Organiza os Dados em Ordem Decrescente).
 - Distinct (Consultas com Valores Distintos, Sem Repetição).
+- Funções Agregadas (
+- Avg (Média Aritmética)
+- Count (Contagem dos Itens Selecionados ou Registros)
+- Max (Valor Máximo)
+- Min (Valor Mínimo)
+- Sum (Soma)).
 - In (Determina se um Determinado Valor Corresponde a Qualquer Valor em uma Subconsulta ou Lista).
 - Inner Join (Retorna Linhas Quando Houver Pelo Menos uma Correspondência em Ambas as Tabelas).
+- Like (Determina se uma Cadeia de Caracteres são Correspondente).
 - Not Between (Exclui um Determinado Valor Selecionado na Consulta da Dados).
 - Not In (Exclui um Determinado Valor Selecionado na Consulta da Dados).
 - Or (Filtra um Registro se Pelo Menos uma das Condições Forem Verdadeiras em uma Consulta).
