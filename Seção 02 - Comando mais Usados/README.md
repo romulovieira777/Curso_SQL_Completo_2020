@@ -12,6 +12,7 @@
 - Max (Valor Máximo)
 - Min (Valor Mínimo)
 - Sum (Soma)).
+- Group By (Agrupa Valores de uma Coluna Específica).
 - In (Determina se um Determinado Valor Corresponde a Qualquer Valor em uma Subconsulta ou Lista).
 - Inner Join (Retorna Linhas Quando Houver Pelo Menos uma Correspondência em Ambas as Tabelas).
 - Like (Determina se uma Cadeia de Caracteres são Correspondente).
