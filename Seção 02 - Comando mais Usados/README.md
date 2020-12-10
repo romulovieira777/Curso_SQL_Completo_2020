@@ -8,6 +8,7 @@
 - Desc (Organiza os Dados em Ordem Decrescente).
 - Distinct (Consultas com Valores Distintos, Sem Repetição).
 - Group By (Agrupa Valores de uma Coluna Específica).
+- Having (Filtra os Resultados do Agrupamento).
 - In (Determina se um Determinado Valor Corresponde a Qualquer Valor em uma Subconsulta ou Lista).
 - Inner Join (Retorna Linhas Quando Houver Pelo Menos uma Correspondência em Ambas as Tabelas).
 - Like (Determina se uma Cadeia de Caracteres são Correspondente).
@@ -22,3 +23,4 @@
 - Top (Retornar um Número de Registros que foi Especificado).
 - Use Database (Escolhendo um Banco de Dados).
 - Where (Filtrando Registros em uma Consulta).
+- % (Caracter Coringa).
