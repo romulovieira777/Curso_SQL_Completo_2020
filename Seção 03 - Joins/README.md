@@ -1,4 +1,16 @@
 #### :computer: Comando SQL que foram usados nos Arquivos acima::boom:
+- And (Filtra um registro se ambos forem verdadeiros em uma consulta).
+- As (Nome Alternativa para Colunas ou Tabelas).
+- Avg (Média Aritmética).
+- Datepart (Retorna um número inteiro).
+- In (Determina se um determinado valor corresponde a qualquer valor em uma subconsulta ou lista).
 - Inner Join (Retorna linhas quando houver pelo menos uma correspondência em ambas as tabelas).
+- Is Null (Seleciona os dados nulos da tabela).
+- Left Join (Retorna todas as linhas da tabela da esquerda, mesmo se não houver nenhuma correspondência na tabela à direita).
+- Like (Determina se uma cadeia de caracteres são correspondentes).
 - Select (Selecionando dados de uma tabela).
+- Union (Concatena os resultados de duas consultas em um único conjunto de resultados e exclui as duplicatas).
 - Use Database (Escolhendo um banco de dados).
+- Where (Filtrando Registros em uma Consulta).
+- Year (Retorna um número inteiro que representa o ano).
+- % (Caracter Coringa).
