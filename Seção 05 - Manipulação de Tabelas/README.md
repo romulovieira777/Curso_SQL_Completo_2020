@@ -1,7 +1,7 @@
 #### :computer: Comando SQL que foram usados nos Arquivos acima::boom:
 - Create DataBase (Criando um Banco de Dados).
 - Create Table (Criando Tabelas).
-- Datetime (Tipo de Dado que define uma data combinada com uma hora do dia que inclui frações de segundos e se baseia em um período de 24 horas).
+- Datetime (Define uma data combinada com uma hora do dia que inclui frações de segundos e se baseia em um período de 24 horas).
 - Default (Valor Padrão).
 - Delete (Remove uma ou mais linhas de uma tabela).
 - Insert Into e Values (Inserindo Dados em uma Tabela).
