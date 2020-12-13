@@ -1,0 +1,22 @@
+#### :computer: Comando SQL que foram usados nos Arquivos acima::boom:
+- As (Nome Alternativa para Colunas ou Tabelas).
+- Avg (Média Aritmética).
+- Concat (Faz a junção de dois ou mais valores de cadeia de caracteres de ponta a ponta).
+- Datepart (Retorna um número inteiro).
+- Day (Retorna um número inteiro que representa o dia (dia do mês) da date especificada).
+- Group By (Agrupa Valores de uma Coluna Específica).
+- Len (Retorna o número de caracteres da expressão de cadeia de caracteres especificada, excluindo espaços à direita).
+- Lower (Retorna uma expressão de caractere depois de converter para minúsculas os dados de caracteres em maiúsculas).
+- Max (Valor Máximo).
+- Min (Valor Mínimo).
+- Month (Retorna um inteiro que representa o mês da date especificada).
+- Order By (Ordenação de Colunas).
+- Replace (Substitui todas as ocorrências de um valor da cadeia de caracteres especificado por outro valor de cadeia de caracteres).
+- Round (Retorna um valor numérico, arredondado, para o comprimento ou precisão especificados).
+- Select (Selecionando dados de uma tabela).
+- Sqrt (Retorna a raiz quadrada do valor flutuante especificado).
+- Substring (Retorna parte de uma expressão de caractere, binária, de texto ou de imagem no SQL Server).
+- Sum (Sum (Soma).
+- Upper (Retorna uma expressão de caractere com dados de caractere em minúsculas convertidos em maiúsculas).
+- Use Database (Escolhendo um banco de dados).
+- Year (Retorna um número inteiro que representa o ano).
