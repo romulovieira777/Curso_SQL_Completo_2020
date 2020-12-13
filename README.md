@@ -7,4 +7,5 @@
 - [Funções mais Utilizadas](https://github.com/romulovieira777/Curso_SQL_Completo_2020/tree/main/Se%C3%A7%C3%A3o%2004%20-%20Fun%C3%A7%C3%B5es%20mais%20Utilizadas)
 
 
-Link para o curso https://www.udemy.com/course/curso-sql-completo-desafios-e-muita-pratica/
+Link para o curso 100% Gratuito. 
+[Udemy](https://www.udemy.com/course/curso-sql-completo-desafios-e-muita-pratica/)
