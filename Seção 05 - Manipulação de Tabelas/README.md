@@ -1,16 +1,23 @@
 #### :computer: Comando SQL que foram usados nos Arquivos acima::boom:
-- Create DataBase (Criando um Banco de Dados).
-- Create Table (Criando Tabelas).
+- Alter Table (Alterar tabelas ou colunas).
+- Check (Restrição).
+- Creat View (É uma exibição de uma tabela virtual baseada no conjunto de resultados de uma consulta)
+- Create DataBase (Criando um banco de dados).
+- Create Table (Criando tabelas).
 - Datetime (Define uma data combinada com uma hora do dia que inclui frações de segundos e se baseia em um período de 24 horas).
-- Default (Valor Padrão).
+- Default (Valor padrão).
 - Delete (Remove uma ou mais linhas de uma tabela).
-- Insert Into e Values (Inserindo Dados em uma Tabela).
-- Foreign Key (Chave Estrangeira).
-- Int (Tipo de Dado Inteiro).
-- Like (Determina se uma Cadeia de Caracteres são Correspondente).
-- Not Null (Não Nulo).
-- Primary Key (Chave Primária).
-- Update (Atualiza Registros dentro de uma Tabela).
-- Use Database (Escolhendo um Banco de Dados).
+- Drop Table (Excluir tabelas ou colunas).
+- Execute (Executa uma cadeia de caracteres de comando).
+- Insert Into e Values (Inserindo dados em uma tabela).
+- Foreign Key (Chave estrangeira).
+- Int (Tipo de dado inteiro).
+- Like (Determina se uma cadeia de caracteres são correspondente).
+- Not Null (Não nulo).
+- Primary Key (Chave primária).
+- Set (Define a variável local especificada).
+- Truncate Table (Excluindo todos os dados de uma tabela).
+- Update (Atualiza registros dentro de uma tabela).
+- Use Database (Escolhendo um banco de dados).
 - Varchar (Tipos de dados de caractere de tamanho variável).
-- Where (Filtrando Registros em uma Consulta).
+- Where (Filtrando registros em uma consulta).
