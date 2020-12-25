@@ -16,7 +16,7 @@
 - Select (Selecionando dados de uma tabela).
 - Sqrt (Retorna a raiz quadrada do valor flutuante especificado).
 - Substring (Retorna parte de uma expressão de caractere, binária, de texto ou de imagem no SQL Server).
-- Sum (Sum (Soma).
+- Sum (Soma).
 - Upper (Retorna uma expressão de caractere com dados de caractere em minúsculas convertidos em maiúsculas).
 - Use Database (Escolhendo um banco de dados).
 - Year (Retorna um número inteiro que representa o ano).
